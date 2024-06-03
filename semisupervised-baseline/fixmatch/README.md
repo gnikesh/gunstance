@@ -1,0 +1,1 @@
+Adapted from [https://github.com/iustinsirbu13/multimodal-ssl-for-disaster-tweet-classification](https://github.com/iustinsirbu13/multimodal-ssl-for-disaster-tweet-classification).
